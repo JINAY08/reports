@@ -1,1 +1,1 @@
-This repo contains reports/posters of the projects I have done!
+This repo contains reports/posters/ppts of the projects I have done!
